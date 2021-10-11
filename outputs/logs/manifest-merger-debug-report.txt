@@ -1,0 +1,203 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/devonhickle/.gradle/caches/transforms-3/0b4cc741d7a3c10864ece2df63842665/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.7.0-beta02] /Users/devonhickle/.gradle/caches/transforms-3/3adf298884f14448aaaa1313cb43c1cf/transformed/jetified-core-ktx-1.7.0-beta02/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/devonhickle/.gradle/caches/transforms-3/c6651b2639f4f3e69f8ea1382018b07c/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/devonhickle/.gradle/caches/transforms-3/5a123898bf4a021e05e0b07c5f065663/transformed/constraintlayout-2.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.arcadefire:nice-spinner:1.4.4] /Users/devonhickle/.gradle/caches/transforms-3/174c062b6e1d684cabec76ea9bee1811/transformed/jetified-nice-spinner-1.4.4/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/devonhickle/.gradle/caches/transforms-3/c699784c95c1de88ed0280d213820378/transformed/appcompat-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.robinhood.spark:spark:1.2.0] /Users/devonhickle/.gradle/caches/transforms-3/bd111a026c35e7a6856aaf1f13309bb3/transformed/jetified-spark-1.2.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.robinhood.ticker:ticker:2.0.2] /Users/devonhickle/.gradle/caches/transforms-3/8e777b2b85bdff01431d57ceabac2eac/transformed/jetified-ticker-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/ea4582eb0526d562d638d4e8e155c44a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/devonhickle/.gradle/caches/transforms-3/ee9adfd2bdeb1c25ad97f560645a7dd7/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/devonhickle/.gradle/caches/transforms-3/1b72e48364c81d5e222eacb87e1c4058/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/devonhickle/.gradle/caches/transforms-3/cf746dd71f798c698ddac0c18f513c4e/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/d660f62eb5b9633b1dce76248b3e922d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/216369f4ac68ef0097eb6abfa121c600/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/cacdb096f7847540f613727c7fe3b9a3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/devonhickle/.gradle/caches/transforms-3/4640e56b9f66310eeaa1339258d0861d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/f4bfa5bd18baef132fb9a0903f1ac66c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/6e69d32085dae47fa0d1421916faa1ec/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/df0ba4fd0a72e6ffebc097541dfdde26/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/11245c4856ce9ce0a9b0acebb137a360/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/b010ab647cd5d049e25ae003a5a46384/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/67058d74a7f227fc06728e0ffc458c7d/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/5d8811d8677251d42210923f2124baef/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0-beta02] /Users/devonhickle/.gradle/caches/transforms-3/e4b0da38cb04bdac6d47d684efdcd28f/transformed/core-1.7.0-beta02/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/8ed4883255d7806ef1f5e7a6c6565fc4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/devonhickle/.gradle/caches/transforms-3/bf7302d242037df293d27eb3abeb8d1d/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/4e83276e66fbeb6325b302f5c4acd106/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/devonhickle/.gradle/caches/transforms-3/856c2e1dfc328d017b13279590eec558/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/devonhickle/.gradle/caches/transforms-3/ffd67a9ef879693fe3e9a7c191eced46/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/8c165f3503a7d25e6a99cf4b85b28a58/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/devonhickle/.gradle/caches/transforms-3/a0c2aa8660502d694f65075bad1866d2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/4bfe32e878b4b0ec219c4eaf74e4944e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/devonhickle/.gradle/caches/transforms-3/13d127e11ecfffcce01b7c9021285b53/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/devonhickle/.gradle/caches/transforms-3/10323fbb633adadff5a317c08ac45541/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/devonhickle/.gradle/caches/transforms-3/14e1f7caa72a8e916f0fd6821de65453/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/07f8af3c6f13009a6c7c33d71c3e9203/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/49a57c1c6dd159055f381bb149f1b9c3/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/cbce3250f38693bbbe14dee0ad096e91/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/5ea8f0ed332b1b269256d53965ad5d08/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/a5281282be713b966017e3da244f43d1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:5:9-70
+	android:name
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:5:26-68
+application
+ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:7:5-23:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/devonhickle/.gradle/caches/transforms-3/c6651b2639f4f3e69f8ea1382018b07c/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/devonhickle/.gradle/caches/transforms-3/c6651b2639f4f3e69f8ea1382018b07c/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/devonhickle/.gradle/caches/transforms-3/5a123898bf4a021e05e0b07c5f065663/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/devonhickle/.gradle/caches/transforms-3/5a123898bf4a021e05e0b07c5f065663/transformed/constraintlayout-2.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.robinhood.ticker:ticker:2.0.2] /Users/devonhickle/.gradle/caches/transforms-3/8e777b2b85bdff01431d57ceabac2eac/transformed/jetified-ticker-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [com.robinhood.ticker:ticker:2.0.2] /Users/devonhickle/.gradle/caches/transforms-3/8e777b2b85bdff01431d57ceabac2eac/transformed/jetified-ticker-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.7.0-beta02] /Users/devonhickle/.gradle/caches/transforms-3/e4b0da38cb04bdac6d47d684efdcd28f/transformed/core-1.7.0-beta02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0-beta02] /Users/devonhickle/.gradle/caches/transforms-3/e4b0da38cb04bdac6d47d684efdcd28f/transformed/core-1.7.0-beta02/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/devonhickle/.gradle/caches/transforms-3/a0c2aa8660502d694f65075bad1866d2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/devonhickle/.gradle/caches/transforms-3/a0c2aa8660502d694f65075bad1866d2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0-beta02] /Users/devonhickle/.gradle/caches/transforms-3/e4b0da38cb04bdac6d47d684efdcd28f/transformed/core-1.7.0-beta02/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:13:9-53
+activity#com.example.covidtrackerapp.MainActivity
+ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:14:9-22:20
+	android:exported
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/devonhickle/.gradle/caches/transforms-3/0b4cc741d7a3c10864ece2df63842665/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.2] /Users/devonhickle/.gradle/caches/transforms-3/0b4cc741d7a3c10864ece2df63842665/transformed/jetified-viewbinding-7.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.7.0-beta02] /Users/devonhickle/.gradle/caches/transforms-3/3adf298884f14448aaaa1313cb43c1cf/transformed/jetified-core-ktx-1.7.0-beta02/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0-beta02] /Users/devonhickle/.gradle/caches/transforms-3/3adf298884f14448aaaa1313cb43c1cf/transformed/jetified-core-ktx-1.7.0-beta02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/devonhickle/.gradle/caches/transforms-3/c6651b2639f4f3e69f8ea1382018b07c/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/devonhickle/.gradle/caches/transforms-3/c6651b2639f4f3e69f8ea1382018b07c/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/devonhickle/.gradle/caches/transforms-3/5a123898bf4a021e05e0b07c5f065663/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.1] /Users/devonhickle/.gradle/caches/transforms-3/5a123898bf4a021e05e0b07c5f065663/transformed/constraintlayout-2.1.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.arcadefire:nice-spinner:1.4.4] /Users/devonhickle/.gradle/caches/transforms-3/174c062b6e1d684cabec76ea9bee1811/transformed/jetified-nice-spinner-1.4.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.arcadefire:nice-spinner:1.4.4] /Users/devonhickle/.gradle/caches/transforms-3/174c062b6e1d684cabec76ea9bee1811/transformed/jetified-nice-spinner-1.4.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/devonhickle/.gradle/caches/transforms-3/c699784c95c1de88ed0280d213820378/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] /Users/devonhickle/.gradle/caches/transforms-3/c699784c95c1de88ed0280d213820378/transformed/appcompat-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.robinhood.spark:spark:1.2.0] /Users/devonhickle/.gradle/caches/transforms-3/bd111a026c35e7a6856aaf1f13309bb3/transformed/jetified-spark-1.2.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.robinhood.spark:spark:1.2.0] /Users/devonhickle/.gradle/caches/transforms-3/bd111a026c35e7a6856aaf1f13309bb3/transformed/jetified-spark-1.2.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.robinhood.ticker:ticker:2.0.2] /Users/devonhickle/.gradle/caches/transforms-3/8e777b2b85bdff01431d57ceabac2eac/transformed/jetified-ticker-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.robinhood.ticker:ticker:2.0.2] /Users/devonhickle/.gradle/caches/transforms-3/8e777b2b85bdff01431d57ceabac2eac/transformed/jetified-ticker-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/ea4582eb0526d562d638d4e8e155c44a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/ea4582eb0526d562d638d4e8e155c44a/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/devonhickle/.gradle/caches/transforms-3/ee9adfd2bdeb1c25ad97f560645a7dd7/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/devonhickle/.gradle/caches/transforms-3/ee9adfd2bdeb1c25ad97f560645a7dd7/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/devonhickle/.gradle/caches/transforms-3/1b72e48364c81d5e222eacb87e1c4058/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/devonhickle/.gradle/caches/transforms-3/1b72e48364c81d5e222eacb87e1c4058/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/devonhickle/.gradle/caches/transforms-3/cf746dd71f798c698ddac0c18f513c4e/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] /Users/devonhickle/.gradle/caches/transforms-3/cf746dd71f798c698ddac0c18f513c4e/transformed/jetified-appcompat-resources-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/d660f62eb5b9633b1dce76248b3e922d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/d660f62eb5b9633b1dce76248b3e922d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/216369f4ac68ef0097eb6abfa121c600/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/216369f4ac68ef0097eb6abfa121c600/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/cacdb096f7847540f613727c7fe3b9a3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/cacdb096f7847540f613727c7fe3b9a3/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/devonhickle/.gradle/caches/transforms-3/4640e56b9f66310eeaa1339258d0861d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/devonhickle/.gradle/caches/transforms-3/4640e56b9f66310eeaa1339258d0861d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/f4bfa5bd18baef132fb9a0903f1ac66c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/f4bfa5bd18baef132fb9a0903f1ac66c/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/6e69d32085dae47fa0d1421916faa1ec/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/6e69d32085dae47fa0d1421916faa1ec/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/df0ba4fd0a72e6ffebc097541dfdde26/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/df0ba4fd0a72e6ffebc097541dfdde26/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/11245c4856ce9ce0a9b0acebb137a360/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/11245c4856ce9ce0a9b0acebb137a360/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/b010ab647cd5d049e25ae003a5a46384/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/b010ab647cd5d049e25ae003a5a46384/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/67058d74a7f227fc06728e0ffc458c7d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/67058d74a7f227fc06728e0ffc458c7d/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/5d8811d8677251d42210923f2124baef/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/5d8811d8677251d42210923f2124baef/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0-beta02] /Users/devonhickle/.gradle/caches/transforms-3/e4b0da38cb04bdac6d47d684efdcd28f/transformed/core-1.7.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0-beta02] /Users/devonhickle/.gradle/caches/transforms-3/e4b0da38cb04bdac6d47d684efdcd28f/transformed/core-1.7.0-beta02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/8ed4883255d7806ef1f5e7a6c6565fc4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/8ed4883255d7806ef1f5e7a6c6565fc4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/devonhickle/.gradle/caches/transforms-3/bf7302d242037df293d27eb3abeb8d1d/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/devonhickle/.gradle/caches/transforms-3/bf7302d242037df293d27eb3abeb8d1d/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/4e83276e66fbeb6325b302f5c4acd106/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/4e83276e66fbeb6325b302f5c4acd106/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/devonhickle/.gradle/caches/transforms-3/856c2e1dfc328d017b13279590eec558/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/devonhickle/.gradle/caches/transforms-3/856c2e1dfc328d017b13279590eec558/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/devonhickle/.gradle/caches/transforms-3/ffd67a9ef879693fe3e9a7c191eced46/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/devonhickle/.gradle/caches/transforms-3/ffd67a9ef879693fe3e9a7c191eced46/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/8c165f3503a7d25e6a99cf4b85b28a58/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/8c165f3503a7d25e6a99cf4b85b28a58/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/devonhickle/.gradle/caches/transforms-3/a0c2aa8660502d694f65075bad1866d2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/devonhickle/.gradle/caches/transforms-3/a0c2aa8660502d694f65075bad1866d2/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/4bfe32e878b4b0ec219c4eaf74e4944e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/4bfe32e878b4b0ec219c4eaf74e4944e/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/devonhickle/.gradle/caches/transforms-3/13d127e11ecfffcce01b7c9021285b53/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/devonhickle/.gradle/caches/transforms-3/13d127e11ecfffcce01b7c9021285b53/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/devonhickle/.gradle/caches/transforms-3/10323fbb633adadff5a317c08ac45541/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/devonhickle/.gradle/caches/transforms-3/10323fbb633adadff5a317c08ac45541/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/devonhickle/.gradle/caches/transforms-3/14e1f7caa72a8e916f0fd6821de65453/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/devonhickle/.gradle/caches/transforms-3/14e1f7caa72a8e916f0fd6821de65453/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/07f8af3c6f13009a6c7c33d71c3e9203/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/07f8af3c6f13009a6c7c33d71c3e9203/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/49a57c1c6dd159055f381bb149f1b9c3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/49a57c1c6dd159055f381bb149f1b9c3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/cbce3250f38693bbbe14dee0ad096e91/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/cbce3250f38693bbbe14dee0ad096e91/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/5ea8f0ed332b1b269256d53965ad5d08/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/devonhickle/.gradle/caches/transforms-3/5ea8f0ed332b1b269256d53965ad5d08/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/a5281282be713b966017e3da244f43d1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/devonhickle/.gradle/caches/transforms-3/a5281282be713b966017e3da244f43d1/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/devonhickle/Desktop/COVIDTrackerApp/app/src/main/AndroidManifest.xml
